@@ -1,2 +1,2 @@
-# simple-mvp-structure-demo
-This project demonstrate that how to create an android application using MVP structure in a simple way.
+# MVP Structure with CountDownTimer In Easy Way
+This is just for test
